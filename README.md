@@ -13,6 +13,6 @@ Second, it'll start the chat:
 3 - Sair
 Escolha uma opção:
 
-You can choose the option you want
+You can then choose the option you want
 
 ! Notice that since it's local host, the file you want to upload needs to be inside the same folder as the server~client !
